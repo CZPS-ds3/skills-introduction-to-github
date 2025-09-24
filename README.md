@@ -22,7 +22,7 @@
 
 ### 🎯 What's Next?
 
-**Keep the momentum going!**
+**Keep the momentum going!** yes
 
 [![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/CZPS-ds3/skills-introduction-to-github/issues/1)
 [![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
